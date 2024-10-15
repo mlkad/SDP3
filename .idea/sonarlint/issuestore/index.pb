@@ -11,3 +11,7 @@ C
 ShoppingFacade.java,b/8/b866505468535370ba49f08a663a0459298ad771
 C
 ShoppingClient.java,c/d/cdd4671c0b0f50d52baa8c4fb1cf949166046f23
+D
+SmartHomeFacade.java,5/0/50c79ed7a3781abcd58be715ab12df7f00cbbc72
+D
+SmartHomeClient.java,4/4/442877d585f7a144a6761795003b4166e3572d1c
